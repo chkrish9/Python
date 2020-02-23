@@ -10,12 +10,16 @@ train = pd.read_csv('Data/winequality-red.csv')
 # Handling missing value
 data = train.select_dtypes(include=[np.number]).interpolate().dropna()
 
-data_correlation = data.corr(method='pearson')
-unstack_data = data_correlation.unstack()
-sorted_data = unstack_data.sort_values(kind='quicksort')
-
+# Top 3 correlation
+data_correlation = data.corr(method='pearson')['quality'][:]
+sorted_data = data_correlation.sort_values(kind='quicksort', ascending=False)
+print("Descending order")
 print(sorted_data[0:3])
-
+print("-------------------------")
+sorted_data = data_correlation.sort_values(kind='quicksort', ascending=True)
+print("Ascending order")
+print(sorted_data[0:3])
+print("-------------------------")
 
 target_data = train.quality
 features_data = data.drop(['quality'], axis=1)
