@@ -1,5 +1,5 @@
 from keras.models import Sequential
-from keras.layers.core import Dense, Activation
+from keras.layers.core import Dense
 from sklearn.preprocessing import LabelEncoder
 
 from sklearn.model_selection import train_test_split

@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e36dc9e-691f-468f-8753-57ed2d38900e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep_Learning/ICP1/Breas Cancer.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep_Learning/ICP1/basicOP.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep_Learning/ICP1/ICP1_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep_Learning/ICP1/breastcancer.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Deep_Learning/ICP1/breastcancer.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep_Learning/ICP1/ICP1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep_Learning/ICP1/ICP1_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep_Learning/ICP1/ICP1_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep_Learning/ICP1/ICP1_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,22 +184,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583867847652" />
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1585603959225">
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1585604934083">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585603959225" />
-    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1585603959225">
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585604934083" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1585604934082">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585603959225" />
-    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1585603959225">
+    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585604934082" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1585604934082">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585603959225" />
-    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1585603959225">
+    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585604934082" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1585604934083">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585603959225" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585604934083" />
     <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1579890939479">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
