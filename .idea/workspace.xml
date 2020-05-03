@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e36dc9e-691f-468f-8753-57ed2d38900e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Deep_Learning/ICP3/ICP3_1_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep_Learning/ICP3/ICP3_1_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep_Learning/ICP3/ICP3_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep_Learning/ICP3/ICP3_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep_Learning/ICP5/sentimentAnalysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep_Learning/ICP5/ICP5_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,16 +29,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Deep_Learning/ICP3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Deep_Learning/ICP6" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Projects\python" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projects\python\ICP5\Data" />
       <recent name="D:\Projects\python\ICP2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Python\Deep_Learning\ICP6" />
+      <recent name="D:\Projects\python" />
     </key>
   </component>
   <component name="RunManager" selected="Python.ICP1_2">
